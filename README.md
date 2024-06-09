@@ -1,4 +1,4 @@
-Physics student at university of barcelona.
+Quant at PwC future MSFE at Columbia.
 Mainly coding in python.
 
 
