@@ -1,6 +1,4 @@
-Quant at PwC future MSFE at Columbia.
-Mainly coding in python.
-
+MSFE @ Columbia.
 
 <!---
 tryt0c0de/tryt0c0de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
